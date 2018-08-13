@@ -25,7 +25,7 @@ class NetCrypt
 {
     /**
     * Define the number of blocks that should be read from the source file for each chunk.
-    * For 'AES-128-CBC' each block consist of 16 bytes.
+    * For 'AES-256-CBC' and AES in general, each block consists of 16 bytes.
     * So if we read 10,240 blocks we load 160kb into memory. You may adjust this value
     * to read/write shorter or longer chunks.
     */
