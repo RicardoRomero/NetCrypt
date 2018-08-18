@@ -1,4 +1,4 @@
-# Encrypt files in chunks with openssl_encrypt
+# Encrypt files in chunks with PHP openssl_encrypt
 
 This is heavily borrowed from [http://php.net/manual/en/function.openssl-encrypt.php#120141](http://php.net/manual/en/function.openssl-encrypt.php#120141)
 
